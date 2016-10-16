@@ -1,0 +1,4 @@
+#Sun Jul 03 23:41:41 BST 2011
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="J2EE Runtime Library" name\="J2EE Runtime Library" runtime-type-id\="org.eclipse.jst.server.core.runtimeType" timestamp\="0"/>\n  <runtime id\="Apache Tomcat v7.0" location\="/opt/apache-tomcat-7.0.16" name\="Apache Tomcat v7.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.70" timestamp\="0"/>\n</runtimes>\n
+eclipse.preferences.version=1
